@@ -1,0 +1,26 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Bluetooth_RN42	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+isCommandMode	KEYWORD2
+getDisconnectStr	KEYWORD2
+beginCommandMode	KEYWORD2
+beginDataMode	KEYWORD2
+connect	KEYWORD2
+connectToAddress	KEYWORD2
+isConnected	KEYWORD2
+sendStr	KEYWORD2
+readStr	KEYWORD2
+attachConsole	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
